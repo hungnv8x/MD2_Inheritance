@@ -1,5 +1,5 @@
 <?php
-
+namespace GeometricObject;
 class  Circle extends Shape
 {
     public $radius;
